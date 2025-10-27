@@ -1,3 +1,3 @@
-string = input("Enter a string: ")
+string = input("Enter a sentence: ")
 reversed_string = string[::-1]
-print(f"Reversed string: {reversed_string}")
+print(f"Reversed sentence: {reversed_string}")
